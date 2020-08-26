@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tdc-graphql"
+    }
+  },
+  "defaultProject": "tdc-graphql",
+  "cli": {
+    "analytics": "df1cf3ca-cc25-42b8-be09-ebf830d727dd"
+  }
 }
